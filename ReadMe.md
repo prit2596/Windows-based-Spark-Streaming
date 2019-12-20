@@ -24,7 +24,7 @@ Finally, I have visualized the results over sliding Windows using Elastic Search
 
 The following figure depicts the framework structure. 
 
-![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/FrameworkStructure.png)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/FrameworkStructure.PNG)
 
 
 #Files Description
