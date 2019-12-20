@@ -24,7 +24,7 @@ Finally, I have visualized the results over sliding Windows using Elastic Search
 
 The following figure depicts the framework structure. 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/FrameworkStructure.png)
 
 
 #Files Description
@@ -59,15 +59,15 @@ python3 stream_producer.py ecc8e743-5481-40f5-aed3-ca01b6d8e12d 2019-04-03 2019-
 
 ##Performance Screenshots:
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/Screenshot1.png)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/Screenshot2.png)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/Screenshot3.png)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/Screenshot4.png)
 
 
 ##Kibana Visualizer
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/kibana1.PNG)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/kibana2.PNG)
+![alt text](https://github.com/prit2596/Windows-based-Spark-Streaming/blob/master/kibana3.PNG)
 
